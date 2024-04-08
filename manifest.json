@@ -1,0 +1,11 @@
+{
+  "name": Playlist-copy-with-just-New-Songs)",
+  "description": "Create a playlist containing only new Songs",
+  "preview": "assets/Vinyl Vibe.jpg",
+  "main": "dist/star-ratings.js",
+  "readme": "README.md",
+  "authors": [
+    { "name": "Franz3", "url": "https://github.com/Fdr3iZzz" }
+  ],
+  "tags": ["discovery"]
+}
