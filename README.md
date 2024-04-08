@@ -77,8 +77,8 @@ https://github.com/FlafyDev/spicetify-creator-plugins/tree/main/packages/spcr-se
 - [SoCalifornian](https://github.com/surfbryce)
 - [charlieS](https://github.com/CharlieS1103)
 - [mark](https://github.com/machinemessiah)
-
-Staring the repo would mean a lot to me. Thanks <3
 - [Jeroentvb](https://github.com/jeroentvb)
 - [Aimarekin](https://github.com/Aimarekin)
 - [Flafy](https://github.com/FlafyDev)
+
+Staring the repo would mean a lot to me. Thanks <3
