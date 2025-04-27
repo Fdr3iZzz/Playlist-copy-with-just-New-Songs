@@ -1,11 +1,13 @@
-{
-  "name": "Playlist-copy-with-just-New-Songs",
-  "description": "Create a playlist containing only new Songs",
-  "preview": "assets/Vinyl Vibe.jpg",
-  "main": "dist/filter-known-tracks.js",
-  "readme": "README.md",
-  "authors": [
-    { "name": "Franz3", "url": "https://github.com/Fdr3iZzz" }
-  ],
-  "tags": ["discovery"]
-}
+[
+  {
+    "name": "Extract unknown songs from your friends playlist",
+    "description": "Creates a new playlist containing only new songs from your firends existing playlist",
+    "preview": "assets/Vinyl Vibe.jpg",
+    "main": "dist/filter-known-tracks.js",
+    "readme": "README.md",
+    "authors": [
+      { "name": "Franz3", "url": "https://github.com/Fdr3iZzz" }
+    ],
+    "tags": ["discovery"]
+  }
+]
